@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello, I'm Brooks!
+Zachary Brooks Howe (he/him)
+
+Welcome to my GitHub profile! I am a Ph. D. Candidate in Physics at Auburn University in Auburn, Alabama. I mainly use this profile for code related to my research, which is in the field of dusty plasma physics.
+
+- :book: I am currently learning how to use GitHub to improve my coding workflow and keep track of changes!
+- :microscope: In my research, I am using the open-source code [PySINDy](https://github.com/dynamicslab/pysindy) to try and learn dust particle interactions with each other directly from data.
+- :pencil2: I'm currently working on writing some code that will use `pysindy` in an object-oriented way to solve a 3-body problem of dust particles interacting. Check out my `yukawa-SINDy` repo!
+- :mailbox: You can reach me at [zbrookshowe@gmail.com](mailto:zbrookshowe@gmail.com), I love to talk about my research and get to know new people :smile:
+- :dancers: I am also open to collaborations and feedback about my code and work, so feel free to drop me a line!
 
 <!--
 **zbrookshowe/zbrookshowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
